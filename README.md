@@ -71,10 +71,5 @@ Experiência prática em testes End-to-End, API e testes de carga de alta volume
 🔗 LinkedIn: https://www.linkedin.com/in/roseleyne  
 🔗 Portfolio: https://roseleyne-duarte.notion.site  
 
----
 
-## 📊 GitHub Stats
 
-![Roseleyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roseleyne&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roseleyne&layout=compact)
