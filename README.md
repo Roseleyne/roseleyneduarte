@@ -1,59 +1,80 @@
-<center><h2>Fullstack Development & Software Quality</h2></center>
+<h1 align="center">👩‍💻 Roseleyne Duarte</h1>
 
-![Imagem](https://img.freepik.com/fotos-gratis/gato-fofo-na-biblioteca_23-2150932413.jpg?w=826)
+<h3 align="center">Senior QA Engineer | Test Automation | Performance | API</h3>
 
+---
 
-## Soft Skill
+## 🚀 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,ruby,discord,notion,nodejs,ps,eclipse)](https://skillicons.dev) 
- 
+QA Sênior com forte atuação em Engenharia de Qualidade de Software, automação de testes e performance.
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,cypress,gherkin,jenkins,powershell,androidstudio,postgres,postman,mongodb,mysql,vscode)](https://skillicons.dev) 
+Experiência prática em testes End-to-End, API e testes de carga de alta volumetria, garantindo confiabilidade, escalabilidade e qualidade em produção.
 
------------------------------
+---
 
+## 🛠️ Tech Stack
 
-📲 11-95223.8102
+### 💻 Linguagens & Desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,ruby,nodejs)](https://skillicons.dev)
 
------------------------------------------------
+### 🧪 Test Automation & QA
+[![My Skills](https://skillicons.dev/icons?i=selenium,cypress,jenkins,postman)](https://skillicons.dev)
 
-🎓 business Administration
+### ☁️ Infra & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,mongodb,mysql,postgres,vscode)](https://skillicons.dev)
 
-🎓 System Analysis and Development
+---
 
-🎓 graduate student - Data sciences
+## 📂 Featured Projects
 
-🎓 graduate student - FullStack Developer
+🔍 **Cypress E2E Automation**  
+✔ Automação de fluxo de checkout  
+✔ Validação UI + API  
+✔ Tratamento de cross-origin  
 
-🎓 graduate student - Software Engineering
+🔗 https://github.com/Roseleyne/cypress-e2e-checkout-demo  
 
-----------------
-🔗[Linkedin](www.linkedin.com/in/roseleyne)
+---
 
-🔗[Portfólio](https://roseleyne-duarte.notion.site/Roseleyne-Fernandes-Duarte-Silva-4ae999fa49c24e85ba2f4585a4597eae)
+🔗 **API Testing (Postman + Newman)**  
+✔ CRUD + validação de schema  
+✔ Execução via CLI  
 
---------------------------
-## TECNOLOGIA
+🔗 https://github.com/Roseleyne/api-tests-postman-newman  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,github,git,docker,flutter&perline=3)](https://skillicons.dev)
+---
 
------------------------------------
+📊 **Performance Testing (JMeter)**  
+✔ Testes de carga (milhões de requisições/dia)  
+✔ Análise de throughput e latência  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+🔗 https://github.com/Roseleyne/jmeter-load-tests-demo  
 
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+## 🎓 Education
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🎓 Business Administration  
+🎓 Systems Analysis and Development  
+🎓 Postgraduate in Data Science  
+🎓 Postgraduate in FullStack Development  
+🎓 Postgraduate in Software Engineering  
 
+---
 
+## 📫 Contact
 
+📍 São Paulo - Brazil  
 
+📞 +55 11 95223-8102  
 
+🔗 LinkedIn: https://www.linkedin.com/in/roseleyne  
+🔗 Portfolio: https://roseleyne-duarte.notion.site  
 
+---
 
+## 📊 GitHub Stats
+
+![Roseleyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roseleyne&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roseleyne&layout=compact)
